@@ -21,3 +21,5 @@ for pos,comida in enumerate (lunch):
     print (f'Eu vou comer {comida} na posicao {pos}')
     
 print ('Comi pra caramba! ')
+
+print (sorted (lunch))
